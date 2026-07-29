@@ -1,5 +1,7 @@
 # GlaserVortex
-Scripts for "Robustness of Off-Axis Electron Vortices in Nonuniform Magnetic Fields ([arXiv:2607.22315](https://doi.org/10.48550/arXiv.2607.22315))"
+This software package contains the simulation code and post-processing scripts for 
+"Robustness of Off-Axis Electron Vortices in Nonuniform Magnetic Fields 
+([arXiv:2607.22315](https://doi.org/10.48550/arXiv.2607.22315))"
 
 ## Dependencies
 - numpy
