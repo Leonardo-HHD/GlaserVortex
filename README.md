@@ -11,4 +11,4 @@ The code depends on these Python packages:
 ## Usage
 1. run 'Schrodinger_Glaser_v3.py'
 2. move 'QM3d-plt.ipynb' into the folder './output-schrodinger-Glaser/'
-3. run 'QM3d-plt,ipynb'
+3. run 'QM3d-plt.ipynb'
