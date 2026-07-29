@@ -35,7 +35,7 @@ m = m_e                             # electron mass (kg)
 B0 = 0.02                           # peak field strength (T)
 wm = (2*hbar/abs(q*B0))**0.5        # magnetic width (m)
 tc = 2*pi*m/abs(q*B0)               # cyclotron period (s)
-d0 = 160*wm#3.1623e-6               # Lorentzian radius (m), Glaser field turns to uniform if d0 = np.inf
+d0 = 160*wm                         # Lorentzian radius (m), Glaser field turns to uniform if d0 = np.inf
 zc = 0.0e-6                         # focal point (m)
 print("External fields:")
 print(f'''  Glaser field Bz(z) = B0/(1+((z-zc)/d0)**2):
